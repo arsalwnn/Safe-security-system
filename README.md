@@ -59,7 +59,7 @@ cctv_project/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/arsalwnn/cctv_project.git
+git clone https://github.com/arsalwnn/Safe-security-system.git
 cd cctv_project
 ```
 
