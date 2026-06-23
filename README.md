@@ -13,6 +13,11 @@ A real-time AI-powered security system that monitors a safe using computer visio
 5. **Face Recognition** — The system checks if the person is authorized
 6. **Alert** — If unauthorized, saves evidence and sends Telegram + Email alerts
 
+## 🗂️ Dataset
+
+- 80 images collected and manually labeled using **LabelImg**
+- Split into train / validation / test sets
+- Custom YOLOv8 model trained from scratch to detect safes
 ---
 
 ## 🛠️ Tech Stack
