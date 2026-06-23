@@ -1,0 +1,15 @@
+venv/
+env/
+.env
+evidence/
+faces/
+*.pt
+*.pth
+models/
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
