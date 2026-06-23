@@ -114,6 +114,15 @@ When an intruder is detected:
 - [ ] Night vision / low-light enhancement
 - [ ] Database logging of all events
 
+---   
+
+## 📸 Screenshots
+
+**Safe Detection (custom trained YOLOv8):**
+![Detection](screenshots/safe_prediction.png)
+
+**Email Alert:**
+![Alert](screenshots/gmail_alert.png)
 ---
 
 ## 👤 Author
