@@ -127,5 +127,5 @@ When an intruder is detected:
 
 ## 👤 Author
 
-**Amirarsalan Rezaianzadeh**  
+**AmirArsalan Rezaianzadeh**  
 [GitHub](https://github.com/arsalwnn)
